@@ -13,22 +13,27 @@ Inspirado na metodologia da **DIO**, este projeto organiza os prompts de acordo 
 ### ❓ Ask
 * **PT:** Para tirar dúvidas e entender conceitos sem alterar o código.
 * **EN:** For asking questions and understanding concepts without changing code.
-* **Prompt:** [`prompts/ask.md`](prompts/ask.md)
+* **Prompt:** [`prompts/prompt-ask.md`](prompts/prompt-ask.md)
 
 ### ✏️ Edit
 * **PT:** Para modificar códigos existentes, refatorar ou aplicar padrões.
 * **EN:** For modifying existing code, refactoring, or applying patterns.
-* **Prompt:** [`prompts/edit.md`](prompts/edit.md)
+* **Prompt:** [`prompts/prompt-edit.md`](prompts/prompt-edit.md)
 
 ### 🧭 Plan
 * **PT:** Para planejar etapas de uma nova funcionalidade antes da execução.
 * **EN:** For planning steps of a new feature before execution.
-* **Prompt:** [`prompts/plan.md`](prompts/plan.md)
+* **Prompt:** [`prompts/prompt-plan.md`](prompts/prompt-plan.md)
 
 ### 🤖 Agent
 * **PT:** Para tarefas autônomas e complexas que envolvem múltiplos arquivos.
 * **EN:** For autonomous and complex tasks involving multiple files.
-* **Prompt:** [`prompts/agent.md`](prompts/agent.md)
+* **Prompt:** [`prompts/prompt-agent.md`](prompts/prompt-agent.md)
+
+### 📚 Study
+* **PT:** Focado em aprendizado ativo. Ensina conceitos, propõe desafios e faz pequenas avaliações para fixar o conteúdo.
+* **EN:** Focused on active learning. It teaches concepts, proposes challenges, and provides small assessments to reinforce knowledge.
+* **Prompt:** [`prompts/prompt-study.md`](prompts/prompt-study.md)
 
 ---
 
