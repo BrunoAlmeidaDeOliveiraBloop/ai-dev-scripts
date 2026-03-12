@@ -13,27 +13,33 @@ Inspirado na metodologia da **DIO**, este projeto organiza os prompts de acordo 
 ### ❓ Ask
 * **PT:** Para tirar dúvidas e entender conceitos sem alterar o código.
 * **EN:** For asking questions and understanding concepts without changing code.
-* **Prompt:** [`prompts/prompt-ask.md`](prompts/prompt-ask.md)
+* **Prompt:** [`prompts/pt/prompt-ask.md`](prompts/pt/prompt-ask.md)
+* **Prompt-english:** [`prompts/en/prompt-ask.md`](prompts/en/prompt-ask.md)
+
 
 ### ✏️ Edit
 * **PT:** Para modificar códigos existentes, refatorar ou aplicar padrões.
 * **EN:** For modifying existing code, refactoring, or applying patterns.
-* **Prompt:** [`prompts/prompt-edit.md`](prompts/prompt-edit.md)
+* **Prompt:** [`prompts/pt/prompt-edit.md`](prompts/pt/prompt-edit.md)
+* **Prompt-english:** [`prompts/en/prompt-edit.md`](prompts/en/prompt-edit.md)
 
 ### 🧭 Plan
 * **PT:** Para planejar etapas de uma nova funcionalidade antes da execução.
 * **EN:** For planning steps of a new feature before execution.
-* **Prompt:** [`prompts/prompt-plan.md`](prompts/prompt-plan.md)
+* **Prompt:** [`prompts/pt/prompt-plan.md`](prompts/pt/prompt-plan.md)
+* **Prompt-english:** [`prompts/en/prompt-plan.md`](prompts/en/prompt-plan.md)
 
 ### 🤖 Agent
 * **PT:** Para tarefas autônomas e complexas que envolvem múltiplos arquivos.
 * **EN:** For autonomous and complex tasks involving multiple files.
-* **Prompt:** [`prompts/prompt-agent.md`](prompts/prompt-agent.md)
+* **Prompt:** [`prompts/pt/prompt-agent.md`](prompts/pt/prompt-agent.md)
+* **Prompt-english:** [`prompts/en/prompt-agent.md`](prompts/en/prompt-agent.md)
 
 ### 📚 Study
 * **PT:** Focado em aprendizado ativo. Ensina conceitos, propõe desafios e faz pequenas avaliações para fixar o conteúdo.
 * **EN:** Focused on active learning. It teaches concepts, proposes challenges, and provides small assessments to reinforce knowledge.
-* **Prompt:** [`prompts/prompt-study.md`](prompts/prompt-study.md)
+* **Prompt:** [`prompts/pt/prompt-study.md`](prompts/pt/prompt-study.md)
+* **Prompt-english:** [`prompts/en/prompt-study.md`](prompts/en/prompt-study.md)
 
 ---
 
